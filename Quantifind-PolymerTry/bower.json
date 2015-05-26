@@ -1,0 +1,25 @@
+{
+  "name": "Samruddhi",
+  "version": "0.0.0",
+  "description": "Quantifind Assessment",
+  "main": "Quantifind",
+  "keywords": [
+    "Quantifind"
+  ],
+  "authors": [
+    "Samruddhi Suryaji"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5",
+    "core-ajax": "Polymer/core-ajax#^0.5"
+  }
+}
